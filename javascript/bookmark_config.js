@@ -1,0 +1,1 @@
+﻿var ols=[{caption:"Diapositiva 1: FUNDAMENTOS DE LA EQUIDAD LABORAL",page:"1",url:"",level:"1",children:[]},{caption:"Diapositiva 2: FUNDAMENTOS DE LA EQUIDAD LABORAL",page:"2",url:"",level:"1",children:[]}];
