@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1569,10 +1569,12 @@
         </slidelink>
         <slidelink slideid="_player.6ZA9m4l4esl" displaytext="VICIN_ACTUALIZADO" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6ngYVdmNa5e.6TIxY2dDBRh" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6ngYVdmNa5e.6rM2TqNQENZ" displaytext="PROYECCIONES 2025" expand="false" type="slide" />
             <slidelink slideid="_player.6ngYVdmNa5e.62J3A7Dg48x" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6ngYVdmNa5e.6JDwbbyjurq" displaytext="PLAN ANUAL DE EDUCACIÓN" expand="false" type="slide" />
+            <slidelink slideid="_player.6ngYVdmNa5e.5cz8dR5a4cV" displaytext="ENTRENAMIENTO" expand="false" type="slide" />
+            <slidelink slideid="_player.6ngYVdmNa5e.6kH0qlo8V5q" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6ngYVdmNa5e.6RVID8yDMvo" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6ngYVdmNa5e.6JZtflDnoUc" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6ngYVdmNa5e.68HbP95dBXy" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6ngYVdmNa5e.6PZf96yeZRK" displaytext="Diapositiva sin título" expand="false" type="slide" />
@@ -1587,6 +1589,13 @@
         <slidelink slideid="_player.5a4lPBxalJv" displaytext="vicin_logos MDN" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5a4lPBxalJv.6jVt73247ej" displaytext="PLAN ANUAL DE EDUCACIÓN" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6AWkGuDDzs1" displaytext="temporal" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6AWkGuDDzs1.6OAkLffjNoG" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6AWkGuDDzs1.6359qLoV82o" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6AWkGuDDzs1.5WB8NfLEJrl" displaytext="Diapositiva sin título" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
