@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1591,24 +1591,16 @@
             <slidelink slideid="_player.5a4lPBxalJv.6jVt73247ej" displaytext="PLAN ANUAL DE EDUCACIÓN" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6AWkGuDDzs1" displaytext="temporal" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6AWkGuDDzs1.6OAkLffjNoG" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6AWkGuDDzs1.6359qLoV82o" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6AWkGuDDzs1.5WB8NfLEJrl" displaytext="Diapositiva sin título" expand="false" type="slide" />
-          </links>
-        </slidelink>
         <slidelink slideid="_player.6InzKiBNxWn" displaytext="ITEMS " expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6InzKiBNxWn.5jpy6hakLeT" displaytext="PLAN 20MIL" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6NaE7ykXCcl" displaytext="Z1 Presentacion DIEPO vf 1" expand="true" type="slide">
+        <slidelink slideid="_player.6ADv0MCDrmS" displaytext="VICIN_ACTUALIZADO" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6NaE7ykXCcl.6IPli4rSERE" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6ADv0MCDrmS.6neojCr9p5v" displaytext="PROYECCIONES 2025" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="Z1 Presentacion DIEPO vf 1" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
